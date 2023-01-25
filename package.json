@@ -1,0 +1,24 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorRS3/Tophography.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorRS3/Tophography/issues"
+  },
+  "homepage": "https://github.com/HectorRS3/Tophography#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
